@@ -3,3 +3,31 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.bg-red {
+    background-color: #f00;
+}
+
+.bg-green {
+    background-color: #028000;
+}
+
+.bg-yellow {
+    background-color: #FFFF01;
+}
+
+.txt-yellow {
+    color: #FFFF01;
+}
+
+.txt-green {
+    color: #028000;
+}
+
+.superga,
+.tommy,
+.converse {
+    height: 100vh;
+    width: 100vw;
+}
+
